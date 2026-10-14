@@ -1,0 +1,4 @@
+# Big, re-downloadable with scripts/fetch.sh
+*.copc.laz
+*.parquet
+__pycache__/

@@ -1,0 +1,5 @@
+type,libelle,detail,code,surface_dans_AD134_m2,longueur_dans_AD134_m,part_AD134_pct,reglement
+zone-urba,UHa,Zone pavillonnaire,U,0,,0.0,91666_reglement_20250630.pdf
+zone-urba,UHb,Lotissements pavillonnaires,U,1424,,5.1,91666_reglement_20250630.pdf
+zone-urba,N,Zone naturelle,N,26761,,94.9,91666_reglement_20250630.pdf
+zone-urba,N,Zone naturelle,N,0,,0.0,91587_reglement_20251009.pdf

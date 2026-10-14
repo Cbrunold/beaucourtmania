@@ -1,0 +1,10 @@
+type,libelle,detail,code,surface_dans_AD134_m2,longueur_dans_AD134_m,part_AD134_pct,reglement
+prescription-surf,Espace boisé classé (L.113-1 du CU),EBC,01,0,,0.0,91587_reglement_20251009.pdf
+prescription-surf,Bande de protection de 50m des lisières des massifs boisés hors site urbain constitue,,07,22028,,78.2,91666_reglement_20250630.pdf
+prescription-surf,Espace boise classe,,01,3723,,13.2,91666_reglement_20250630.pdf
+info-surf,Taxe d'amenagement,20%,32,0,,0.0,91666_info_surf_32_00_20250630.pdf
+info-surf,Taxe d'amemagement,20%,32,0,,0.0,91666_info_surf_32_00_20250630.pdf
+info-surf,Droit de preemption urbain,,04,1424,,5.1,91666_info_surf_04_00_20250630.pdf
+info-surf,Reglement local de publicite,zone 1,20,28186,,100.0,91666_info_surf_20_00_20250630.pdf
+assiette-sup-s,,,,44,,0.2,
+assiette-sup-s,,,,44,,0.2,
