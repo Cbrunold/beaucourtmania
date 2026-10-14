@@ -30,6 +30,12 @@ vient d'un fichier de `data/` produit par un script de `scripts/`. Rien n'est sa
 - L'allée est un chemin perméable à bandes de gravier, bordé surtout de **peupliers d'Italie** et de cyprès, à moins
   de 2 m du mur du lotissement.
 - Le bois est une futaie de **hêtres et de chênes** avec un sous-étage de charmes, plus variée que ne le dit la BD Forêt.
+- Une **clôture neuve** (barbelés, ruban électrique, mur de rondins) protège les fruitiers des **sangliers** de la
+  forêt départementale ; le sol retourné au pied le confirme. En zone N, la loi de 2023 sur l'engrillagement
+  s'applique au-delà de 150 m de la maison.
+- **Une borne en pierre gravée** a été dégagée près de la clôture. Elle n'est pas dans le cadastre numérique : à ne
+  pas déplacer, à relever pour le bornage.
+- Au centre, un **pré avec de vieux fruitiers** et un **box à chevaux**, qui donne directement sur le lotissement.
 
 Détail, inventaire des plantes et photos encore à prendre : [`photos/README.md`](photos/README.md).
 

@@ -146,6 +146,70 @@ de fissures sur le mur voisin, donc de litige. Un diagnostic par un arboriste (�
 | Hêtres et chênes dans le bois, pas seulement des châtaigniers | inventaire forestier au sol ; l'EBC interdit le défrichement, les coupes passent par déclaration préalable |
 | Regards sous l'allée | rechercher une servitude de réseaux dans le dossier du lotissement |
 
+## Lot 3 : clôture contre les sangliers, borne, pré et box à chevaux (reçu le 14/10/2026)
+
+| Fichier | Sujet |
+|---|---|
+| [`2026-10_cloture_sangliers_bois_empile.jpg`](2026-10_cloture_sangliers_bois_empile.jpg) | clôture neuve et mur de rondins le long du bois |
+| [`2026-10_sol_retourne_par_sangliers.jpg`](2026-10_sol_retourne_par_sangliers.jpg) | sol retourné au pied de la clôture |
+| [`2026-10_borne_en_pierre.jpg`](2026-10_borne_en_pierre.jpg) | borne en pierre gravée, dégagée |
+| [`2026-10_pre_verger_box_chevaux.jpg`](2026-10_pre_verger_box_chevaux.jpg) | pré et vieux fruitiers, box à chevaux, lotissement en fond |
+
+### La clôture contre les sangliers
+
+- Une **clôture neuve** : piquets en bois refendu, **fils barbelés** et un **ruban de clôture électrique** blanc.
+- Côté intérieur, un **mur de rondins** (bois de chauffage fendu et empilé) double la clôture sur plusieurs dizaines de
+  mètres, et une bande a été défrichée pour circuler le long.
+- But : **empêcher les sangliers de la forêt départementale de venir manger les fruitiers**.
+- Au pied de la clôture, le **sol est retourné par plaques** : ce sont des **boutis de sangliers** (le sanglier fouille
+  le sol à la recherche de vers et de racines). La pression est donc réelle et récente.
+
+**Ce que dit le droit :**
+- **Clôtures en zone naturelle.** La loi du 2 février 2023 sur l'« engrillagement » (Code de l'environnement,
+  art. L.372-1) impose aux clôtures en **zone N** de laisser passer la faune : 30 cm libres au-dessus du sol, 1,20 m de
+  haut au plus, sans blesser les animaux. Elle **exempte** notamment les clôtures à **moins de 150 m d'une habitation**
+  et les **enclos d'élevage, y compris équin**. Si la clôture est à plus de 150 m de la maison, les **barbelés** sont à
+  revoir. Le bois sud est à environ 200 m de la maison : à mesurer.
+- **Espace boisé classé** : une clôture n'y est pas interdite, mais la bande défrichée ne doit pas devenir un
+  défrichement (pas de dessouchage, pas de revêtement).
+- **Déclaration préalable** : la commune peut exiger une déclaration pour les clôtures (Code de l'urbanisme,
+  art. R.421-12) ; l'annexe « clôture » du PLU est un plan à vérifier en mairie.
+- **Dégâts de sangliers** : l'indemnisation par la Fédération des chasseurs ne couvre que les cultures agricoles, pas
+  les jardins ni les vergers d'agrément. Le recours est la **clôture** ou une demande de **battue administrative**
+  auprès de la mairie ou de la préfecture si les dégâts se répètent.
+
+### La borne en pierre
+
+- **Borne taillée** dans une pierre claire à grain fin (grès ou calcaire dur), de section carrée, avec une
+  **lettre gravée** sur une face : un **« F »** ou un **« E »** (à relever précisément). Elle a été dégagée sur une
+  vingtaine de centimètres.
+- Le sol autour est un **sable gris chargé de graviers**, très différent de la terre brune limoneuse des boutis :
+  on approche probablement des **sables et graviers du talus est**, ce qui confirme la lecture du relief LiDAR.
+- **Aucune borne n'est enregistrée sur la limite de AD 134** dans le Parcellaire Express de l'IGN (la plus proche est à
+  7 m, au sud-ouest). Cette borne ancienne n'est donc pas encore connue du cadastre numérique : c'est une **pièce à
+  conviction** pour la limite de propriété. Une lettre gravée sur une borne forestière désigne souvent le propriétaire
+  (par exemple « F » pour une forêt, ou l'initiale d'un ancien domaine).
+
+**À faire :**
+1. **Ne pas la déplacer ni l'abîmer** : déplacer une borne est une infraction, et elle perdrait sa valeur de preuve.
+2. Photographier **ses quatre faces et le dessus** (une croix ou une rainure sur le dessus indique souvent la direction
+   de la limite), avec un mètre pour l'échelle.
+3. Relever sa **position GPS** (une photo originale, non compressée, suffit) : je la placerai sur le plan par rapport à
+   la limite cadastrale et au mur.
+4. La signaler au **géomètre-expert** lors d'un bornage : elle peut servir de point de départ.
+
+### Le pré, les fruitiers et le box à chevaux
+
+- Une **grande prairie** fauchée occupe le centre de la propriété : c'est la plus grande partie des **15 936 m² de
+  pelouse et sol nu** mesurés par le LiDAR.
+- **Vieux fruitiers** de plein vent (pommiers et poiriers probables), dont un **entièrement couvert de lierre** et en
+  mauvais état ; de **grands chênes** en lisière à gauche.
+- Un **box à chevaux** en bois (abri ouvert) en lisière du bois, et une **clôture à lisses en rondins** à droite.
+- En fond, **les maisons du lotissement**, côté est (lots AD 107 à 115) : le pré est séparé d'elles par leur seule
+  clôture de jardin.
+- Le box est une **annexe** au sens du PLU. En zone N, une nouvelle annexe est limitée à **20 m²**, à moins de 20 m de
+  la maison ; un abri pour chevaux plus loin relève de l'exploitation agricole et demande un avis en mairie.
+
 ## Photos qui manquent encore
 
 1. **Le mur** : vue d'ensemble pour la longueur et la hauteur, **profil du chaperon**, **l'autre face** côté forêt,
@@ -153,4 +217,6 @@ de fissures sur le mur voisin, donc de litige. Un diagnostic par un arboriste (�
 2. **Le talus est** : la pente de 6 à 7 m vers la forêt départementale.
 3. **Le bois sud** et les deux buttes de terre repérées par le LiDAR.
 4. La petite construction du bois, avec un repère de position (vers la maison ? vers le lotissement ?).
-5. Le pied des peupliers de l'allée (pour estimer leur âge) et le jardin avec la piscine.
+5. **La borne** : les quatre faces, le dessus, un mètre, et sa position GPS.
+6. Les **fichiers** du lot 2 (allée, mur, bois), vus mais pas encore enregistrés.
+7. Le pied des peupliers de l'allée (pour estimer leur âge) et le jardin avec la piscine.
