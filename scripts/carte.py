@@ -103,3 +103,31 @@ ax.scatter([], [], s=60, c="#0b6623", edgecolors="white", label=f"{len(trees)} a
 ax.legend(loc="lower right", fontsize=8.5, framealpha=0.85)
 base(ax, "AD 134 : relief LiDAR HD, courbes de niveau 1 m, arbres et zonage du PLU (30/06/2025)")
 plt.tight_layout(); plt.savefig("cartes/relief_zonage.png"); plt.close()
+
+# --- 3. Two west-east cross-sections: through the house and through the southern wood
+from shapely.geometry import LineString
+with rasterio.open("data/lidar/lidarhd_MNS_50cm.tif") as r:
+    mns = r.read(1).astype(float); T = r.transform
+mns[mns < -1000] = np.nan
+fig, axs = plt.subplots(2, 1, figsize=(12, 8), dpi=130)
+for ax, y, title in [(axs[0], 6842660, "Coupe A, par la maison (Y = 6 842 660)"),
+                     (axs[1], 6842480, "Coupe B, par le bois sud (Y = 6 842 480)")]:
+    xs = np.arange(X0, X1 - 1, 0.5)
+    rr, cc = rasterio.transform.rowcol(T, xs, np.full_like(xs, y))
+    t, s = mnt[rr, cc], mns[rr, cc]
+    ins = LineString([(X0, y), (X1, y)]).intersection(main)
+    for g in getattr(ins, "geoms", [ins]):
+        if g.length > 0:
+            ax.axvspan(g.bounds[0], g.bounds[2], color="#ffd23f", alpha=.22, lw=0)
+    ax.fill_between(xs, 130, t, color="#b08a5a", alpha=.85, label="sol (MNT)")
+    ax.fill_between(xs, t, s, where=s > t + 0.5, color="#3a7d44", alpha=.5, label="arbres et bâtiments (MNS)")
+    ax.set_ylim(135, 188); ax.set_xlim(X0, X1)
+    ax.set_title(title, fontsize=11); ax.set_ylabel("altitude (m NGF)")
+    ax.ticklabel_format(useOffset=False, style="plain"); ax.grid(alpha=.3)
+axs[0].axvspan(0, 0, color="#ffd23f", alpha=.22, label="AD 134")
+axs[0].legend(loc="upper left", fontsize=8)
+axs[1].set_xlabel("X Lambert-93 (m), ouest → est")
+axs[0].annotate("talus est vers la forêt\nde 155 à 148 m", xy=(644428, 150), xytext=(644300, 140),
+                arrowprops=dict(arrowstyle="->"), fontsize=9)
+fig.suptitle("AD 134 : coupes topographiques ouest-est, LiDAR HD IGN 2023 (échelle verticale exagérée)", fontsize=12)
+plt.tight_layout(); plt.savefig("cartes/coupes_topographiques.png"); plt.close()
