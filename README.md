@@ -10,9 +10,23 @@ vient d'un fichier de `data/` produit par un script de `scripts/`. Rien n'est sa
 ![Plan de la propriété sur photo aérienne](cartes/plan_propriete.png)
 
 > Données récupérées le 14/10/2026. Coordonnées en Lambert-93 (EPSG:2154) et en WGS84. Altitudes en NGF-IGN69.
-> Les photos de terrain iront dans [`photos/`](photos/).
+> Photos de terrain et ce qu'elles apprennent : [`photos/`](photos/README.md).
 
 ---
+
+## Constats de terrain (photos du 14/10/2026)
+
+![Façade de la maison principale](photos/2026-10_maison_principale_facade.jpg)
+
+- Une **maison de maître néoclassique du XIXᵉ siècle** (R+1+combles, fronton à oculus, enduit rose, tuiles plates),
+  ouverte à l'ouest sur une **cour pavée** avec un bassin et sa fontaine en fonte.
+- Au nord de la cour, des **communs en meulière** avec portes charretières, couverts de glycine. À l'ouest, le
+  **portail** sur piliers et la **maison de gardien**.
+- L'allée d'accès est bordée de **cyprès d'Italie**. Devant la maison poussent deux **palmiers de Chine**.
+- La meulière apparente des communs confirme la géologie locale (argile à meulière) et donne le matériau probable
+  du mur de clôture côté forêt.
+
+Détail, inventaire des plantes et photos encore à prendre : [`photos/README.md`](photos/README.md).
 
 ## 1. La parcelle et le lotissement
 
