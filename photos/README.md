@@ -82,11 +82,75 @@ Les rapprochements ci-dessous sont probables, pas certains :
 Elle montre le lotissement **en fin de chantier** : voirie neuve, quelques lots encore en terre au sud-est. Elle date
 donc probablement de 2021-2022. On y voit aussi la piscine au sud-est de la maison et la limite boisée à l'est.
 
+## Lot 2 : allée, mur en pierre, bois (reçu le 14/10/2026)
+
+> Ces quatre photos ont été vues mais pas encore enregistrées dans le dépôt (envoyées pendant un traitement) :
+> à renvoyer pour les ajouter ici sous `2026-10_allee_*.jpg`, `2026-10_mur_*.jpg`, `2026-10_bois_*.jpg`.
+
+### L'allée d'accès
+
+- **Chemin à deux bandes de roulement en gravillons calcaires** avec une bande enherbée au centre. Ce revêtement est
+  **perméable**, ce que demandent le PLU (zone N, art. 2.6) et la règle de l'espace boisé classé.
+- L'alignement alterne des **cyprès d'Italie** (*Cupressus sempervirens*) et des **peupliers d'Italie**
+  (*Populus nigra* 'Italica'). La vue satellite laissait penser à des cyprès seuls : **ce sont surtout des peupliers**.
+- À gauche (sud), le **mur neuf enduit du lotissement** longe l'allée. À droite (nord), une **clôture à lisses
+  en bois blanc** borde le pré.
+- Des **regards** (plaques en fonte) des deux côtés : des réseaux passent sous l'allée. À vérifier dans l'arrêté du
+  lotissement : **une servitude de réseaux ou de passage au profit des voisins grève peut-être l'allée**.
+
+**Point d'attention : peupliers et mur du lotissement.** Les peupliers sont plantés à **moins de 2 m** du mur
+du lotissement. Le Code civil (art. 671) impose 2 m pour un arbre de plus de 2 m de haut ; mais si les arbres ont plus
+de 30 ans, ils sont protégés par la **prescription trentenaire** (art. 672). Le peuplier pousse vite, casse facilement
+et ses racines assèchent les argiles : sur un sol à **exposition forte au retrait-gonflement**, c'est le premier risque
+de fissures sur le mur voisin, donc de litige. Un diagnostic par un arboriste (âge, état sanitaire) protège la famille.
+
+### Le mur en pierre
+
+- **Maçonnerie de moellons de meulière et de calcaire** liée et **enduite à la chaux**, enduit très érodé.
+- **Chaperon** (couronnement) en **tuiles plates** débordantes, partiellement déchaussé et couvert de mousse.
+- Couvert de **lierre** et de **vigne vierge** (*Parthenocissus*, feuilles rouges).
+- **Une lézarde ouverte** descend du chaperon jusqu'à mi-hauteur, en escalier, large de plusieurs centimètres
+  par endroits, avec des parties d'enduit décollées. C'est le signe d'un **tassement différentiel** : argiles
+  qui gonflent et se rétractent, racines, eau qui s'infiltre par le chaperon abîmé.
+- Un **jeune arbre** (érable ou frêne, à confirmer) a poussé **au pied du mur**, à l'aplomb de la lézarde : ses
+  racines vont l'élargir.
+
+**À faire, par ordre d'urgence :**
+1. Poser des **témoins** (jauges de fissure datées) sur la lézarde pour savoir si elle bouge.
+2. Couper les jeunes arbres au pied du mur et dégager le lierre **sans l'arracher** du mortier.
+3. Reprendre le chaperon (c'est lui qui protège le mur de l'eau), puis rejointoyer et réenduire à la **chaux**
+   (jamais au ciment sur la meulière).
+4. Établir **à qui appartient le mur** avant tout devis : s'il est mitoyen, le Département (à l'est) ou la Commune
+   (au nord) paie la moitié (Code civil, art. 655). Une photo de **l'autre face** et du **profil du chaperon** permet
+   de lire les marques de mitoyenneté (art. 654) : un chaperon à deux pentes signale un mur mitoyen ; une seule pente
+   tournée d'un côté désigne ce côté comme propriétaire.
+
+### Le bois
+
+- **Futaie de feuillus** : grands **hêtres** (*Fagus sylvatica*, écorce lisse et grise), **chênes** ou châtaigniers
+  (écorce sombre et crevassée), sous-étage de **charmes** et de jeunes hêtres. La BD Forêt de l'IGN classe le bois sud
+  en « châtaignier pur » : **sur le terrain, le hêtre est très présent**, il faudra un inventaire au pied des arbres.
+- Sous-bois assez clair, épaisse litière de feuilles, terrain presque plat (le plateau, avant le talus est).
+  Un tas de branches coupées (rémanents) et quelques déchets plastiques.
+- Une **petite construction** couverte de lierre, à toit sombre, avec des **bûches** empilées contre elle, près
+  d'un **vieux grillage effondré** (poteaux couchés). En fond, le toit d'une maison du lotissement. Ce pourrait être
+  le bâtiment cadastral de 26 m² du bois sud (cabane, abri ou poste électrique) : **à confirmer avec sa position**.
+- **Laurier-cerise** (*Prunus laurocerasus*) au premier plan : espèce envahissante dans les sous-bois d'Île-de-France.
+
+### Ce qui change dans l'étude
+
+| Constat | Conséquence |
+|---|---|
+| L'alignement de l'allée est surtout fait de peupliers | risque de casse et de fissures sur le mur du lotissement ; diagnostic arboricole |
+| Lézarde ouverte dans le mur, chaperon abîmé | surveiller (témoins), travaux à la chaux, établir la mitoyenneté avant devis |
+| Hêtres et chênes dans le bois, pas seulement des châtaigniers | inventaire forestier au sol ; l'EBC interdit le défrichement, les coupes passent par déclaration préalable |
+| Regards sous l'allée | rechercher une servitude de réseaux dans le dossier du lotissement |
+
 ## Photos qui manquent encore
 
-1. **Le mur** côté forêt : vue d'ensemble, détail du chaperon (sommet), épaisseur, fissures, et les deux faces si possible.
+1. **Le mur** : vue d'ensemble pour la longueur et la hauteur, **profil du chaperon**, **l'autre face** côté forêt,
+   et un mètre posé contre la lézarde pour l'échelle.
 2. **Le talus est** : la pente de 6 à 7 m vers la forêt départementale.
-3. **L'allée de cyprès** depuis la rue des Pavillons.
-4. **Le bois sud** et les deux buttes de terre repérées par le LiDAR.
-5. Le petit bâtiment de 26 m² dans le bois sud (probable poste électrique ENEDIS).
-6. Le jardin et la piscine.
+3. **Le bois sud** et les deux buttes de terre repérées par le LiDAR.
+4. La petite construction du bois, avec un repère de position (vers la maison ? vers le lotissement ?).
+5. Le pied des peupliers de l'allée (pour estimer leur âge) et le jardin avec la piscine.

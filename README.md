@@ -25,6 +25,11 @@ vient d'un fichier de `data/` produit par un script de `scripts/`. Rien n'est sa
 - L'allée d'accès est bordée de **cyprès d'Italie**. Devant la maison poussent deux **palmiers de Chine**.
 - La meulière apparente des communs confirme la géologie locale (argile à meulière) et donne le matériau probable
   du mur de clôture côté forêt.
+- **Le mur en pierre présente une lézarde ouverte** sous un chaperon de tuiles abîmé, avec un jeune arbre à son pied :
+  témoins de fissure à poser et mitoyenneté à établir avant travaux.
+- L'allée est un chemin perméable à bandes de gravier, bordé surtout de **peupliers d'Italie** et de cyprès, à moins
+  de 2 m du mur du lotissement.
+- Le bois est une futaie de **hêtres et de chênes** avec un sous-étage de charmes, plus variée que ne le dit la BD Forêt.
 
 Détail, inventaire des plantes et photos encore à prendre : [`photos/README.md`](photos/README.md).
 
