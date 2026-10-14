@@ -159,6 +159,9 @@ La BD TOPO de l'IGN recense **trois murs** autour de la maison (précision ± 2,
 | Mur sud du jardin (autour de la piscine) | 91,5 m | dans la parcelle | 3,4 m | AD 134 |
 | Mur ouest de la maison | 60,2 m | dans la parcelle | 0,9 m | AD 134 |
 
+**Le mur nord et est sert en partie de soutènement** : sur une quarantaine de mètres vers l'angle nord-est, le sol est
+plus bas de 1,5 à 2 m côté extérieur. Plan de renforcement économe : [`projets/mur_renforcement.md`](projets/mur_renforcement.md).
+
 Profil du sol tous les mètres le long de chaque mur : [`murs_profil_1m.csv`](data/lidar/murs_profil_1m.csv). La nature
 (pierre meulière, moellons…), la hauteur, l'épaisseur et l'état viendront des photos. **La propriété du mur** (privatif
 ou mitoyen avec le Département) se juge sur titre et sur les marques de mitoyenneté (Code civil, art. 653 et 654).
